@@ -2,7 +2,7 @@ The following is a project for the Machine Learning For Environmental Engineerin
 shared by Caroline Juang. The aim for this project was to optimize the training model of the data to predict the burned area of western fires.
 
 Cited Caroline Juang work and Cited data sources: 
-- Caronline Juang, 2021, Fire Susceptibility in the western United States with ConvLSTM, including the Preprocessing.pdf and Training.pdf files
+- Caroline Juang, 2021, Fire Susceptibility in the western United States with ConvLSTM, including the Preprocessing.pdf and Training.pdf files
 - WUMI data: https://datadryad.org/stash/dataset/doi:10.5061/dryad.sf7m0cg72
 - Juang, C.S. et al. (2022) ‘Rapid Growth of Large Forest Fires Drives the Exponential Response of Annual Forest-Fire Area to Aridity in the Western United States’, Geophysical Research Letters, 49(5). Available at: https://doi.org/10.1029/2021GL097131.
 - data files: https://ucla.app.box.com/s/epgbcn89365loer1dbp2gz21lc75uut9/folder/136850543328
