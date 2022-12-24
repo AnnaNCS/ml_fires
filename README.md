@@ -1,5 +1,5 @@
 The following is a project for the Machine Learning For Environmental Engineering and Science course. The data for the project and data processing was 
-shared by Caroline Juang. The aim for this project was to optimize the training model of the data to predict the burned area of western fires.
+shared by Caroline Juang and the code was based on Caroline Jaung's ConvLSTM model. The aim for this project was to optimize the training model of the data to predict the burned area of western fires.
 
 Cited Caroline Juang work and Cited data sources: 
 - Caroline Juang, 2021, Fire Susceptibility in the western United States with ConvLSTM, including the Preprocessing.pdf and Training.pdf files
