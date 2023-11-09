@@ -1,4 +1,4 @@
-Machine Learning for Environmental Engineering, Fall 2022: Prediction of Western Fires
+Machine Learning for Environmental Engineering Python Project, Fall 2022: Prediction of Western Fires
 
 The following is a project for the Machine Learning For Environmental Engineering and Science course. The data for the project and data processing was 
 shared by Caroline Juang.  
